@@ -1,0 +1,2 @@
+include ':app', ':actual-sdk'
+rootProject.name='Testing-SDK'
